@@ -1,0 +1,6 @@
+build/
+builds/
+.idea/
+
+.vagrant
+.DS_Store
